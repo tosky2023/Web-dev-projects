@@ -1,0 +1,22 @@
+html {
+	background-color: black;
+}
+#font {
+	font-family: "Playfair", serif;
+	color: aliceblue;
+	text-align: center;
+	text-transform: uppercase;
+}
+
+.img {
+	border: 5px solid white;
+	width: 100%;
+}
+.poster {
+	align-self: center;
+	margin: 80px 80px;
+	color: aliceblue;
+	text-align: center;
+	background-color: black;
+	text-transform: capitalize;
+}
