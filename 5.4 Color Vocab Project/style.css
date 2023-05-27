@@ -1,0 +1,31 @@
+/** @format */
+
+*{
+	color: red;
+    background-image: url(./assets/images/BlowJob.png);
+}
+
+#blue {
+	color: blue;
+}
+
+#orannge {
+	color: orange;
+}
+
+#green {
+	color: green;
+}
+
+#yellow {
+	color: yellow;
+}
+
+#color-title {
+	font-weight: normal;
+}
+
+img {
+	height: 200px;
+	width: 200px;
+}
