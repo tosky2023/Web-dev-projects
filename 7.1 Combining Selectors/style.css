@@ -1,0 +1,26 @@
+/* Write your code here: */
+h1,
+h2 {
+	color: blueviolet;
+}
+/* direct one level  */
+.box > p {
+	color: firebrick;
+}
+
+/* descendant  all under level*/
+.list li {
+    color: blue;
+}
+
+li.done{
+    color: green;
+}
+
+ul p.done{
+    font-size: 0.5rem;
+}
+
+
+
+
